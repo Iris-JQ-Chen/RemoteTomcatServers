@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RemoteTomcatServers:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteTomcatServers_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RemoteTomcatServers/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RemoteTomcatServers" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
